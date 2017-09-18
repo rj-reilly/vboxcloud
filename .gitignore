@@ -1,0 +1,6 @@
+packer
+packer-builder-xenserver-iso
+packer-builder-xenserver-xva
+terraform
+terraform-provider-libvirt
+terraform-provider-virtualbox
